@@ -11,7 +11,7 @@
 
 ---
 
-### `whoami`
+### `BEN KİMİM?`
 Kocaeli Üniversitesi **Mekatronik Mühendisliği** mezunu ve **Elektrik Mühendisliği** yüksek lisans öğrencisiyim. **4 katmanlı PCB tasarımından** gerçek zamanlı **gömülü yazılıma**, **MATLAB/Simulink** model tabanlı kontrol mimarilerinden **HIL/CANoe** doğrulama testlerine kadar donanım ve yazılımın kesiştiği noktada uçtan uca sistemler geliştiriyorum.
 
 * 🚀 **Kouspace** — Aviyonik Alt Sistem Sorumlusu & Takım Kaptanı *(TEKNOFEST 2023 5.'lik, 2025 & 2026 4.'lük)*[cite: 3]
