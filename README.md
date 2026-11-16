@@ -1,6 +1,5 @@
-<!-- Özel Animasyonlu Dikey İnişli Roket & Aviyonik Banner -->
 <div align="center">
-  <img src="./rocket-telemetry.svg" width="100%" alt="Batuhan Dede - KOUSpace VTVL Rocket Avionics"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:060B19,50:0F172A,100:0284C7&height=180&section=header&text=🚀%20BATUHAN%20DEDE&fontSize=44&fontColor=38BDF8&animation=twinkling&fontAlignY=42&desc=Mekatronik%20M%C3%BChendisi%20%7C%20KOUSpace%20VTVL%20Aviyonik%20%26%20G%C3%B6m%C3%BCl%C3%BC%20Sistemler&descAlignY=68&descSize=16&descColor=F8FAFC" width="100%"/>
 </div>
 
 <!-- Sosyal & İletişim Butonları -->
