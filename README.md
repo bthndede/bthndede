@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**bthndede/bthndede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
 # Batuhan Dede
 ### Gömülü Sistemler • Aviyonik & Uçuş Kontrol • Elektrikli Mobilite
@@ -22,4 +19,31 @@ Kocaeli Üniversitesi'nde sürdürdüğüm mühendislik eğitimimi, savunma/hava
 
 - **Aviyonik & Roket Sistemleri ([KouSpace](https://github.com/bthndede)):** TEKNOFEST ve Dikey İnişli Roket Yarışması kapsamında özgün uçuş kontrol bilgisayarlarının (UKB) donanım-yazılım mimarisi, CONOPS kurgusu, OpenRocket simülasyonları ve teknik tasarım raporları (ÖTR, KTR, AHR) üzerine çalışıyorum.
 - **Elektrikli Araç Teknolojileri (Musoshi):** Mühendislik stajım süresince elektrikli araç alt sistemlerinin test, entegrasyon ve saha veri analizi süreçlerinde aktif görev aldım.
-- **Gömülü Ar-Ge & Girişimcilik:** **ESP32
+- **Gömülü Ar-Ge & Girişimcilik:** **ESP32** tabanlı kablosuz telemetri, sensör füzyonu ve RTOS mimarileri geliştiriyor; Kocaeli Teknoloji Atölyeleri ve 42 Kocaeli ekosistemlerinde edindiğim pratiği **TÜBİTAK 1812 BİGG** odağında ticarileştirilebilir teknoloji ürünlerine dönüştürüyorum.
+
+---
+
+### Öne Çıkan Mühendislik Mimarisi (UKB & Telemetri Akışı)
+
+Projelerimde uyguladığım tipik gerçek zamanlı veri işleme ve uçuş kontrol döngüsü:
+
+```mermaid
+graph LR
+    subgraph Sensör Katmanı
+        A[IMU / 9-DOF] --> D
+        B[Barometre & GPS] --> D
+    end
+
+    subgraph Uçuş Kontrol Bilgisayarı - MCU
+        D[Sensör Füzyonu & Kalman Filtresi] --> E{Durum Makinesi / RTOS}
+        E -->|Kritik İrtifa / Apogee| F[Kurtarma & Ateşleme Sistemi]
+        E -->|Telemetri Paketi| G[RF / LoRa / Wi-Fi Modülü]
+    end
+
+    subgraph Yer İstasyonu
+        G <-->|Çift Yönlü Veri| H[Telemetri Arayüzü & Uçuş Kaydı]
+    end
+
+    style D fill:#1f2937,stroke:#3b82f6,stroke-width:2px,color:#fff
+    style E fill:#1f2937,stroke:#10b981,stroke-width:2px,color:#fff
+    style F fill:#7f1d1d,stroke:#ef4444,stroke-width:2px,color:#fff
