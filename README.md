@@ -14,15 +14,7 @@
 
 Mekatronik Mühendisliği lisans mezunuyum, Kocaeli Üniversitesi'nde **Elektrik Mühendisliği yüksek lisansı** yapıyorum. 2021'den beri **KOUSPACE** roket takımında aviyonik alt sistem sorumlusu ve takım kaptanıyım. Uçuş kontrol bilgisayarlarının şematiğinden gömülü yazılımına, prototip üretiminden uçuş öncesi testlerine kadar sürecin içindeyim. Musoshi'de model tabanlı yazılım (Simulink/Stateflow, CAN), Asis Otomasyon'da gömülü yazılım ve donanım stajı yaptım.
 
-```c
-const char *batuhan[] = {
-    "Elektronik kart tasarımı   -> Şematik, 4 katmanlı PCB, SMD dizgi",
-    "Gömülü sistemler           -> STM32, ESP32, C",
-    "Haberleşme                 -> CAN, Modbus RTU, RS-485, SPI, I2C, UART, LoRa",
-    "Model tabanlı geliştirme   -> MATLAB/Simulink, Stateflow, MIL/SIL",
-    "Test ve doğrulama          -> Vector CANoe/CANalyzer, DAQ, test düzenekleri",
-};
-```
+<img src="./assets/flight.svg" width="100%" alt="Uçuş profili: kalkış, motor sonu, apogee ve ayrılma, ana paraşüt, iniş"/>
 
 ---
 
@@ -31,6 +23,8 @@ const char *batuhan[] = {
 <table>
 <tr>
 <td width="50%" valign="top">
+
+<img src="./assets/orta_irtifa.svg" width="100%" alt="Yer istasyonuna LoRa telemetri gönderen roket"/>
 
 #### 🚀 Orta İrtifa Roketi
 🏆 **TEKNOFEST 2023 · Beşincilik**
@@ -42,6 +36,8 @@ const char *batuhan[] = {
 
 </td>
 <td width="50%" valign="top">
+
+<img src="./assets/dikey_inis.svg" width="100%" alt="Aşağı bakan dört soğuk gaz iticisiyle dengede duran kafes ayaklı iniş aracı ve LiDAR ışını"/>
 
 #### 🛬 Dikey İnişli Roket
 🏆 **TEKNOFEST 2025 ve 2026 · Dördüncülük**
@@ -55,6 +51,8 @@ const char *batuhan[] = {
 <tr>
 <td width="50%" valign="top">
 
+<img src="./assets/hibrit_motor.svg" width="100%" alt="Test standında statik ateşleme ve DAQ sinyalleri"/>
+
 #### 🔥 Hibrit Yakıtlı Roket Motoru
 
 - Statik ateşleme için güç dağıtımı ve valf sürüş devreleri
@@ -63,6 +61,8 @@ const char *batuhan[] = {
 
 </td>
 <td width="50%" valign="top">
+
+<img src="./assets/motor_test.svg" width="100%" alt="Motor, tork sensörü ve yük motorundan oluşan test düzeneği; tork-hız ve güç eğrileri"/>
 
 #### ⚙️ Elektrik Motoru Test Düzeneği
 🎓 **Bitirme Projesi · TÜBİTAK 2209-A**
@@ -84,4 +84,4 @@ const char *batuhan[] = {
 
 </div>
 
-<img src="./assets/landing.svg" width="100%" alt="Dikey iniş yapan roket"/>
+<img src="./assets/landing.svg" width="100%" alt="Dikey iniş yapan araç"/>
