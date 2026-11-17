@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D3A,50:1F4E79,100:E7352C&height=200&section=header&text=Batuhan%20Dede&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Mekatronik%20M%C3%BChendisi%20%C2%B7%20Roket%20Aviyoni%C4%9Fi%20%C2%B7%20G%C3%B6m%C3%BCl%C3%BC%20Sistemler&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Batuhan Dede"/>
+<img src="./assets/header.svg" width="100%" alt="Batuhan Dede · Mekatronik Mühendisi · Roket Aviyoniği · Gömülü Sistemler"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=E7352C&center=true&vCenter=true&width=620&lines=%F0%9F%9A%80+U%C3%A7u%C5%9F+kontrol+bilgisayarlar%C4%B1+tasarl%C4%B1yorum;%F0%9F%9B%B0%EF%B8%8F+STM32+ve+ESP32+ile+g%C3%B6m%C3%BCl%C3%BC+yaz%C4%B1l%C4%B1m;%F0%9F%94%A5+Hibrit+roket+motoru+i%C3%A7in+DAQ+ve+ate%C5%9Fleme;%F0%9F%93%A1+CAN%2C+Modbus%2C+RS-485%2C+LoRa+telemetri" alt="Typing SVG"/>
 
@@ -84,4 +84,4 @@ const char *batuhan[] = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E7352C,50:1F4E79,100:0B1D3A&height=110&section=footer" width="100%" alt=""/>
+<img src="./assets/landing.svg" width="100%" alt="Dikey iniş yapan roket"/>
