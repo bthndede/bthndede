@@ -37,7 +37,7 @@ Mekatronik Mühendisliği lisans mezunuyum, Kocaeli Üniversitesi'nde **Elektrik
 </td>
 <td width="50%" valign="top">
 
-<img src="./assets/dikey_inis.svg" width="100%" alt="Aşağı bakan dört soğuk gaz iticisiyle dengede duran kafes ayaklı iniş aracı ve LiDAR ışını"/>
+<img src="./assets/dikey_inis.svg?v=2" width="100%" alt="Aşağı bakan dört soğuk gaz iticisiyle dengede duran kafes ayaklı iniş aracı ve LiDAR ışını"/>
 
 #### 🛬 Dikey İnişli Roket
 🏆 **TEKNOFEST 2025 ve 2026 · Dördüncülük**
@@ -84,4 +84,4 @@ Mekatronik Mühendisliği lisans mezunuyum, Kocaeli Üniversitesi'nde **Elektrik
 
 </div>
 
-<img src="./assets/landing.svg" width="100%" alt="Dört soğuk gaz iticili kafes ayaklı aracın piste dikey inişi"/>
+<img src="./assets/landing.svg?v=2" width="100%" alt="Dört soğuk gaz iticili kafes ayaklı aracın piste dikey inişi"/>
