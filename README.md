@@ -14,7 +14,7 @@
 
 ### 👨‍🚀 Hakkımda
 
-Mekatronik Mühendisliği lisans mezunuyum, Kocaeli Üniversitesi'nde **Elektrik Mühendisliği yüksek lisansı** yapıyorum. 2021'den itibaren **KOUSPACE** roket takımında aviyonik alt sistem sorumlusu ve takım kaptanı olarak görev aldım.
+Mekatronik Mühendisliği lisans mezunuyum, Kocaeli Üniversitesi'nde **Elektrik Mühendisliği yüksek lisansı** yapıyorum. 2021'den itibaren **KOUSPACE** roket takımında aviyonik alt sistem sorumlusu ve takım kaptanı olarak görev aldım; şu an takıma danışmanlık yapıyorum.
 
 Uçuş kontrol bilgisayarlarının şematiğinden gömülü yazılımına, prototip üretiminden uçuş öncesi testlerine kadar sürecin her aşamasında yer alıyorum. Ayrıca **Musoshi**'de model tabanlı yazılım (Simulink/Stateflow, CAN), **Asis Otomasyon**'da gömülü yazılım ve donanım stajı yaptım.
 
