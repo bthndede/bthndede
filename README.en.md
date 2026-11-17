@@ -2,7 +2,7 @@
 
 <img src="./assets/header.svg" width="100%" alt="Batuhan Dede · Mechatronics Engineer · Rocket Avionics · Embedded Systems"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=E7352C&center=true&vCenter=true&width=620&lines=%F0%9F%9A%80+Designing+flight+control+computers;%F0%9F%9B%B0%EF%B8%8F+Embedded+firmware+on+STM32+%26+ESP32;%F0%9F%94%A5+DAQ+%26+ignition+for+hybrid+rocket+motors;%F0%9F%93%A1+CAN%2C+Modbus%2C+RS-485%2C+LoRa+telemetry" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=E7352C&center=true&vCenter=true&width=620&lines=%F0%9F%9A%80+Flight+control+computer+design;%F0%9F%9B%B0%EF%B8%8F+Embedded+firmware+on+STM32+%26+ESP32;%F0%9F%94%A5+DAQ+%26+ignition+for+hybrid+rocket+motors;%F0%9F%93%A1+CAN%2C+Modbus%2C+RS-485%2C+LoRa+telemetry" alt="Typing SVG"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-batuhan--dede-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/batuhan-dede) [![Email](https://img.shields.io/badge/Email-batuhandede35%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batuhandede35@gmail.com) ![Location](https://img.shields.io/badge/%C4%B0ZM%C4%B0T%2C_KOCAEL%C4%B0-1F4E79?style=for-the-badge&logo=googlemaps&logoColor=white)
 
@@ -14,9 +14,9 @@
 
 ### 👨‍🚀 About Me
 
-I hold a B.Sc. in Mechatronics Engineering and am currently pursuing an **M.Sc. in Electrical Engineering** at Kocaeli University. Starting in 2021, I served as the Avionics Subsystem Lead and Team Captain of the **KOUSPACE** rocketry team, and I now advise the team as a mentor.
+I hold a B.Sc. in Mechatronics Engineering and am currently pursuing an **M.Sc. in Electrical Engineering** at Kocaeli University. From 2021, I served as the Avionics Subsystem Lead and Team Captain of the **KOUSPACE** rocketry team, and now mentor the team.
 
-I worked across the full hardware and firmware lifecycle—from flight computer schematics and PCB layout to embedded software, prototype assembly, and pre-flight testing. Previously, I completed internships in model-based software (Simulink/Stateflow, CAN) at **Musoshi** and embedded software & hardware at **Asis Automation**.
+I worked across the full hardware and firmware lifecycle—from flight computer schematics and PCB layout to embedded software, prototype assembly, and pre-flight testing. I also completed internships in model-based software (Simulink/Stateflow, CAN) at **Musoshi** and embedded software & hardware at **Asis Otomasyon**.
 
 <img src="./assets/flight.svg" width="100%" alt="Flight profile: liftoff, burnout, apogee and separation, main parachute, landing"/>
 
@@ -28,9 +28,9 @@ I worked across the full hardware and firmware lifecycle—from flight computer 
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/orta_irtifa.svg" width="100%" alt="Medium-altitude rocket transmitting LoRa telemetry to ground station"/>
+<img src="./assets/orta_irtifa.svg" width="100%" alt="Mid-altitude rocket transmitting LoRa telemetry to ground station"/>
 
-#### 🚀 Medium-Altitude Rocket
+#### 🚀 Mid-Altitude Rocket
 🏆 **TEKNOFEST 2023 · 5th Place**
 
 - ESP32-based **4-layer flight control computer**
@@ -68,7 +68,7 @@ I worked across the full hardware and firmware lifecycle—from flight computer 
 <img src="./assets/motor_test.svg" width="100%" alt="Electric motor test bench with torque sensor and load motor; torque-speed and power curves"/>
 
 #### ⚙️ Electric Motor Test Bench
-🎓 **Senior Thesis · TÜBİTAK 2209-A**
+🎓 **Graduation Project · TÜBİTAK 2209-A**
 
 - Torque, speed, and power characterization with torque sensor and load motor
 - Schematic/PCB design and embedded firmware for the DAQ board

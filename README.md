@@ -2,7 +2,7 @@
 
 <img src="./assets/header.svg" width="100%" alt="Batuhan Dede · Mekatronik Mühendisi · Roket Aviyoniği · Gömülü Sistemler"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=E7352C&center=true&vCenter=true&width=620&lines=%F0%9F%9A%80+U%C3%A7u%C5%9F+kontrol+bilgisayarlar%C4%B1+tasarl%C4%B1yorum;%F0%9F%9B%B0%EF%B8%8F+STM32+ve+ESP32+ile+g%C3%B6m%C3%BCl%C3%BC+yaz%C4%B1l%C4%B1m;%F0%9F%94%A5+Hibrit+roket+motoru+i%C3%A7in+DAQ+ve+ate%C5%9Fleme;%F0%9F%93%A1+CAN%2C+Modbus%2C+RS-485%2C+LoRa+telemetri" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=E7352C&center=true&vCenter=true&width=620&lines=%F0%9F%9A%80+U%C3%A7u%C5%9F+kontrol+bilgisayar%C4%B1+tasar%C4%B1m%C4%B1;%F0%9F%9B%B0%EF%B8%8F+STM32+ve+ESP32+ile+g%C3%B6m%C3%BCl%C3%BC+yaz%C4%B1l%C4%B1m;%F0%9F%94%A5+Hibrit+roket+motoru+i%C3%A7in+DAQ+ve+ate%C5%9Fleme;%F0%9F%93%A1+CAN%2C+Modbus%2C+RS-485%2C+LoRa+telemetri" alt="Typing SVG"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-batuhan--dede-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/batuhan-dede) [![E-posta](https://img.shields.io/badge/E--posta-batuhandede35%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batuhandede35@gmail.com) ![Konum](https://img.shields.io/badge/%C4%B0ZM%C4%B0T%2C_KOCAEL%C4%B0-1F4E79?style=for-the-badge&logo=googlemaps&logoColor=white)
 
@@ -14,7 +14,7 @@
 
 ### 👨‍🚀 Hakkımda
 
-Mekatronik Mühendisliği lisans mezunuyum, Kocaeli Üniversitesi'nde **Elektrik Mühendisliği yüksek lisansı** yapıyorum. 2021'den itibaren **KOUSPACE** roket takımında aviyonik alt sistem sorumlusu ve takım kaptanı olarak görev aldım; şu an takıma danışmanlık yapıyorum.
+Mekatronik Mühendisliği lisans mezunuyum, Kocaeli Üniversitesi'nde **Elektrik Mühendisliği yüksek lisansı** yapıyorum. 2021'de katıldığım **KOUSPACE** roket takımında aviyonik alt sistem sorumlusu ve takım kaptanı olarak görev aldım; şu an takıma danışmanlık yapıyorum.
 
 Uçuş kontrol bilgisayarlarının şematiğinden gömülü yazılımına, prototip üretiminden uçuş öncesi testlerine kadar sürecin her aşamasında yer aldım. Ayrıca **Musoshi**'de model tabanlı yazılım (Simulink/Stateflow, CAN), **Asis Otomasyon**'da gömülü yazılım ve donanım stajı yaptım.
 
@@ -46,7 +46,7 @@ Uçuş kontrol bilgisayarlarının şematiğinden gömülü yazılımına, proto
 🏆 **TEKNOFEST 2025 ve 2026 · Dördüncülük**
 
 - STM32 tabanlı **4 katmanlı kontrol kartı** (IMU + LiDAR)
-- **4 iticili soğuk gaz** itki için servo tahrikli **oransal iğneli valf**
+- **4 iticili soğuk gaz** itki sistemi için servo tahrikli **oransal iğneli valf**
 - **Modbus RTU** ile endüstriyel servo sürücü kontrolü
 
 </td>
@@ -58,9 +58,9 @@ Uçuş kontrol bilgisayarlarının şematiğinden gömülü yazılımına, proto
 
 #### 🔥 Hibrit Yakıtlı Roket Motoru
 
-- Statik test standı için güç dağıtımı ve valf sürüş katları
+- Statik test standı için güç dağıtımı ve valf sürücü devreleri
 - Uzaktan **güvenli ateşleme** kontrolü
-- Load cell, basınç ve sıcaklık verisi için **RS-485 DAQ**
+- Yük hücresi (load cell), basınç ve sıcaklık verisi için **RS-485 DAQ**
 
 </td>
 <td width="50%" valign="top">
@@ -70,7 +70,7 @@ Uçuş kontrol bilgisayarlarının şematiğinden gömülü yazılımına, proto
 #### ⚙️ Elektrik Motoru Test Düzeneği
 🎓 **Bitirme Projesi · TÜBİTAK 2209-A**
 
-- Tork sensörü ve yük motoru altında tork, hız ve güç karakterizasyonu
+- Tork sensörü ve yük motoruyla, yük altında tork, hız ve güç karakterizasyonu
 - DAQ kartının şematik/PCB tasarımı ve gömülü yazılımı
 - Gerçek zamanlı ölçüm ve test verisi kaydı
 
