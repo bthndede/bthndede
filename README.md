@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg?v=3" width="100%" alt="Batuhan Dede · Mekatronik Mühendisi · Roket Aviyoniği · Gömülü Sistemler"/>
+<img src="./assets/header.svg?v=4" width="100%" alt="Batuhan Dede · Mekatronik Mühendisi · Roket Aviyoniği · Gömülü Sistemler"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=E7352C&center=true&vCenter=true&width=620&lines=%F0%9F%9A%80+U%C3%A7u%C5%9F+kontrol+bilgisayar%C4%B1+tasar%C4%B1m%C4%B1;%F0%9F%9B%B0%EF%B8%8F+STM32+ve+ESP32+ile+g%C3%B6m%C3%BCl%C3%BC+yaz%C4%B1l%C4%B1m;%F0%9F%94%A5+Hibrit+roket+motoru+i%C3%A7in+DAQ+ve+ate%C5%9Fleme;%F0%9F%93%A1+CAN%2C+Modbus%2C+RS-485%2C+LoRa+telemetri" alt="Typing SVG"/>
 
