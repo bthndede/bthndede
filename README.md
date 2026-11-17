@@ -43,7 +43,7 @@ Mekatronik Mühendisliği lisans mezunuyum, Kocaeli Üniversitesi'nde **Elektrik
 🏆 **TEKNOFEST 2025 ve 2026 · Dördüncülük**
 
 - STM32 tabanlı **4 katmanlı kontrol kartı** (IMU + LiDAR)
-- Soğuk gaz itki için servo tahrikli **oransal iğneli valf**
+- **4 iticili soğuk gaz** itki için servo tahrikli **oransal iğneli valf**
 - **Modbus RTU** ile endüstriyel servo sürücü kontrolü
 
 </td>
@@ -84,4 +84,4 @@ Mekatronik Mühendisliği lisans mezunuyum, Kocaeli Üniversitesi'nde **Elektrik
 
 </div>
 
-<img src="./assets/landing.svg" width="100%" alt="Dikey iniş yapan araç"/>
+<img src="./assets/landing.svg" width="100%" alt="Dört soğuk gaz iticili kafes ayaklı aracın piste dikey inişi"/>
