@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Batuhan Dede · Mechatronics Engineer · Rocket Avionics · Embedded Systems"/>
+<img src="./assets/header.svg?v=3" width="100%" alt="Batuhan Dede · Mechatronics Engineer · Rocket Avionics · Embedded Systems"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=E7352C&center=true&vCenter=true&width=620&lines=%F0%9F%9A%80+Flight+control+computer+design;%F0%9F%9B%B0%EF%B8%8F+Embedded+firmware+on+STM32+%26+ESP32;%F0%9F%94%A5+DAQ+%26+ignition+for+hybrid+rocket+motors;%F0%9F%93%A1+CAN%2C+Modbus%2C+RS-485%2C+LoRa+telemetry" alt="Typing SVG"/>
 
