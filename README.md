@@ -12,7 +12,7 @@
 
 ### 👨‍🚀 Hakkımda
 
-Mekatronik Mühendisliği lisans mezunuyum, Kocaeli Üniversitesi'nde **Elektrik Mühendisliği yüksek lisansı** yapıyorum. 2021'den beri **KOUSPACE** roket takımında aviyonik alt sistem sorumlusu ve takım kaptanıyım. Uçuş kontrol bilgisayarlarının şematiğinden gömülü yazılımına, prototip üretiminden uçuş öncesi testlerine kadar sürecin içindeyim.
+Mekatronik Mühendisliği lisans mezunuyum, Kocaeli Üniversitesi'nde **Elektrik Mühendisliği yüksek lisansı** yapıyorum. 2021'den beri **KOUSPACE** roket takımında aviyonik alt sistem sorumlusu ve takım kaptanıyım. Uçuş kontrol bilgisayarlarının şematiğinden gömülü yazılımına, prototip üretiminden uçuş öncesi testlerine kadar sürecin içindeyim. Musoshi'de model tabanlı yazılım (Simulink/Stateflow, CAN), Asis Otomasyon'da gömülü yazılım ve donanım stajı yaptım.
 
 ```c
 const char *batuhan[] = {
@@ -73,16 +73,6 @@ const char *batuhan[] = {
 </td>
 </tr>
 </table>
-
----
-
-### 🛰️ Görev Geçmişi
-
-| | Görev | Dönem |
-|:-:|---|---|
-| 🚀 | **KOUSPACE Uzay ve Havacılık Topluluğu** · Aviyonik Alt Sistem Sorumlusu ve Takım Kaptanı | 2021&nbsp;–&nbsp;Halen |
-| 🚗 | **Musoshi (SGN)** · Model Tabanlı Yazılım Stajyeri: VCU modelleme, CANoe test panelleri, CAN analizi | 2025&nbsp;–&nbsp;2026 |
-| 🏭 | **Asis Otomasyon** · Gömülü Yazılım ve Donanım Stajyeri: konveyörde ürün tespiti, prototip kart testleri | 2024 |
 
 ---
 
