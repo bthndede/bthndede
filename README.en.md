@@ -16,7 +16,7 @@
 
 I hold a B.Sc. in Mechatronics Engineering and am currently pursuing an **M.Sc. in Electrical Engineering** at Kocaeli University. Starting in 2021, I served as the Avionics Subsystem Lead and Team Captain of the **KOUSPACE** rocketry team, and I now advise the team as a mentor.
 
-I work across the full hardware and firmware lifecycle—from flight computer schematics and PCB layout to embedded software, prototype assembly, and pre-flight testing. Previously, I completed internships in model-based software (Simulink/Stateflow, CAN) at **Musoshi** and embedded software & hardware at **Asis Automation**.
+I worked across the full hardware and firmware lifecycle—from flight computer schematics and PCB layout to embedded software, prototype assembly, and pre-flight testing. Previously, I completed internships in model-based software (Simulink/Stateflow, CAN) at **Musoshi** and embedded software & hardware at **Asis Automation**.
 
 <img src="./assets/flight.svg" width="100%" alt="Flight profile: liftoff, burnout, apogee and separation, main parachute, landing"/>
 
