@@ -4,7 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=E7352C&center=true&vCenter=true&width=620&lines=%F0%9F%9A%80+U%C3%A7u%C5%9F+kontrol+bilgisayarlar%C4%B1+tasarl%C4%B1yorum;%F0%9F%9B%B0%EF%B8%8F+STM32+ve+ESP32+ile+g%C3%B6m%C3%BCl%C3%BC+yaz%C4%B1l%C4%B1m;%F0%9F%94%A5+Hibrit+roket+motoru+i%C3%A7in+DAQ+ve+ate%C5%9Fleme;%F0%9F%93%A1+CAN%2C+Modbus%2C+RS-485%2C+LoRa+telemetri" alt="Typing SVG"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-batuhan--dede-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/batuhan-dede) ![Konum](https://img.shields.io/badge/%C4%B0ZM%C4%B0T%2C_KOCAEL%C4%B0-1F4E79?style=for-the-badge&logo=googlemaps&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-batuhan--dede-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/batuhan-dede) [![E-posta](https://img.shields.io/badge/E--posta-batuhandede35%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batuhandede35@gmail.com) ![Konum](https://img.shields.io/badge/%C4%B0ZM%C4%B0T%2C_KOCAEL%C4%B0-1F4E79?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+<sub>🇹🇷 Türkçe · <a href="./README.en.md">🇬🇧 English</a></sub>
 
 </div>
 
@@ -12,7 +14,9 @@
 
 ### 👨‍🚀 Hakkımda
 
-Mekatronik Mühendisliği lisans mezunuyum, Kocaeli Üniversitesi'nde **Elektrik Mühendisliği yüksek lisansı** yapıyorum. 2021'den beri **KOUSPACE** roket takımında aviyonik alt sistem sorumlusu ve takım kaptanıyım. Uçuş kontrol bilgisayarlarının şematiğinden gömülü yazılımına, prototip üretiminden uçuş öncesi testlerine kadar sürecin içindeyim. Musoshi'de model tabanlı yazılım (Simulink/Stateflow, CAN), Asis Otomasyon'da gömülü yazılım ve donanım stajı yaptım.
+Mekatronik Mühendisliği lisans mezunuyum, Kocaeli Üniversitesi'nde **Elektrik Mühendisliği yüksek lisansı** yapıyorum. 2021'den beri **KOUSPACE** roket takımında aviyonik alt sistem sorumlusu ve takım kaptanı olarak görev alıyorum.
+
+Uçuş kontrol bilgisayarlarının şematiğinden gömülü yazılımına, prototip üretiminden uçuş öncesi testlerine kadar sürecin her aşamasında yer alıyorum. Ayrıca **Musoshi**'de model tabanlı yazılım (Simulink/Stateflow, CAN), **Asis Otomasyon**'da gömülü yazılım ve donanım stajı yaptım.
 
 <img src="./assets/flight.svg" width="100%" alt="Uçuş profili: kalkış, motor sonu, apogee ve ayrılma, ana paraşüt, iniş"/>
 
@@ -30,9 +34,8 @@ Mekatronik Mühendisliği lisans mezunuyum, Kocaeli Üniversitesi'nde **Elektrik
 🏆 **TEKNOFEST 2023 · Beşincilik**
 
 - ESP32 tabanlı **4 katmanlı uçuş kontrol bilgisayarı**
-- Sensör, haberleşme ve kurtarma devreleri
-- Otonom ayrılma algoritmaları
-- **LoRa** tabanlı telemetri
+- Sensör, haberleşme ve kurtarma devreleri tasarımı
+- Otonom ayrılma algoritmaları ve **LoRa telemetri**
 
 </td>
 <td width="50%" valign="top">
@@ -55,8 +58,8 @@ Mekatronik Mühendisliği lisans mezunuyum, Kocaeli Üniversitesi'nde **Elektrik
 
 #### 🔥 Hibrit Yakıtlı Roket Motoru
 
-- Statik ateşleme için güç dağıtımı ve valf sürüş devreleri
-- Uzaktan **güvenli ateşleme** devresi
+- Statik test standı için güç dağıtımı ve valf sürüş katları
+- Uzaktan **güvenli ateşleme** kontrolü
 - Load cell, basınç ve sıcaklık verisi için **RS-485 DAQ**
 
 </td>
@@ -67,8 +70,9 @@ Mekatronik Mühendisliği lisans mezunuyum, Kocaeli Üniversitesi'nde **Elektrik
 #### ⚙️ Elektrik Motoru Test Düzeneği
 🎓 **Bitirme Projesi · TÜBİTAK 2209-A**
 
-- Yük altında tork, hız ve güç eğrisi karakterizasyonu
+- Tork sensörü ve yük motoru altında tork, hız ve güç karakterizasyonu
 - DAQ kartının şematik/PCB tasarımı ve gömülü yazılımı
+- Gerçek zamanlı ölçüm ve test verisi kaydı
 
 </td>
 </tr>
